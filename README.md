@@ -5,6 +5,7 @@
 # Requisitos para el workshop
 
 - Conocimiento basico de como usar la terminal
+
 ![Comandos basicos de terminal](/recursos/comandos_basicos.png)
 
 
