@@ -22,3 +22,5 @@
     #Email de la cuenta que creamos en Github
     - `git config --global --list` 
     #Para revisar la informacion ingresada
+
+- Una vez que estos pasos esten completos, y estemos seguros que tenemos bien configurado Git en nuestra computadora, solo queda esperar la charla para empezar a aprender y trabajar :D 
